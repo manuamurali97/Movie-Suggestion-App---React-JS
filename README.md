@@ -40,4 +40,4 @@ https://www.themoviedb.org/
 
 Contributions, suggestions, and improvements are welcome. Please open an issue or submit a pull request.
 
-localStorage
+
